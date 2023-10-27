@@ -1,5 +1,8 @@
 # SQL Case Study: Tiny Shop Sales Analysis
 
+<img width="307" alt="image" src="https://github.com/aashok30/Tiny-Shop-Sales-Analysis/assets/101622691/cde85017-349b-4232-ab15-2cf1d1c40450">
+
+
 ### Repository Overview:
 This repository presents the results of the SQL Case Study 1: Tiny Shop Sales, issued by Data In Motion, LLC. 
 The study is based on a dataset featuring four fundamental tables: "customers," "products," "orders," and "order_items."
