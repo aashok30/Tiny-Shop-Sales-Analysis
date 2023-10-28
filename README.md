@@ -1,4 +1,4 @@
-# SQL Case Study: Tiny Shop Sales Analysis
+# SQL Case Study: Tiny Shop Sales Analysis 
 
 <img width="307" alt="image" src="https://github.com/aashok30/Tiny-Shop-Sales-Analysis/assets/101622691/cde85017-349b-4232-ab15-2cf1d1c40450">
 
